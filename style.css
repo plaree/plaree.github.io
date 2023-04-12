@@ -261,3 +261,26 @@ header{
     margin-bottom: 1.5rem;
 
 }
+  .social-icons{
+    display: flex;
+    align-items: center;
+  }
+  .social-icons a {
+    margin-right: 20px;
+  }
+  
+
+  .github-icon {
+    width: 42px;
+    height: 42px;
+    filter: invert(1);
+  }
+  .soundcloud-icon {
+    width: 42px;
+    height: 42px;
+  }
+  .twitter-icon {
+    width: 42px;
+    height: 42px;
+    filter: invert(1);
+  }
