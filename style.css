@@ -284,3 +284,9 @@ header{
     height: 42px;
     filter: invert(1);
   }
+
+  .letterboxd-icon {
+    width: 42px;
+    height: 42px;
+    filter: invert(1);
+  }
